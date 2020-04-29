@@ -10,4 +10,4 @@ This repository contains a compilation of links to these open-access books and a
 
 **Note**: this script is not portable at all as it includes a system call to use the ```wget``` tool in Linux. However, it would be pretty easy to substitute this with a call to the ```wget``` python library.
 
-**Disclaimer**: I have no relationship with Springer, neither they have relation with this code.
+**Disclaimer**: I have no relationship with Springer, neither they have any relationship with this code.
